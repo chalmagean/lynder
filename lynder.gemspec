@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Cezar Halmagean"]
   spec.email         = ["cezar@mixandgo.com"]
 
-  spec.summary       = %q{}
-  spec.description   = %q{}
-  spec.homepage      = ""
+  spec.summary       = %q{A specific kind of file renamer}
+  spec.description   = %q{It sorts and renames video (.mp4) course files}
+  spec.homepage      = "https://github.com/chalmagean/lynder"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
